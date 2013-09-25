@@ -1,6 +1,4 @@
-jekyll-br
-=========
+jekyllrb.com.br
+===============
 
-A translation of Jekyll Site for portuguese brazilian
-
-http://mattsrb.com/jekyll-br
+Projeto da tradução do site e da documentação do framework Jekyllrb
