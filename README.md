@@ -1,9 +1,6 @@
 jekyllrb.com.br
 ===============
 
-<<<<<<< HEAD
-Projeto da tradução do site e da documentação do framework Jekyllrb
-=======
 Projeto da tradução do site e documentação do framework Jekyllrb.
 
 ## Como participar?
@@ -16,4 +13,3 @@ Siga as instruções na nossa [página de wiki](https://github.com/mattsrb/jekyl
 
 ### Reportando erros
 Navegue pelo site traduzido [jekyllrb.com.br](https://github.com/mattsrb/jekyllrb.com.br/wiki/Tradução), se encontrar erros reporte para o time na [página de issues](https://github.com/mattsrb/jekyllrb.com.br/issues).
->>>>>>> gh-pages
