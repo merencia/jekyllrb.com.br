@@ -1,0 +1,90 @@
+Essa página foi criada para organizar o material que está sendo traduzido.
+
+### Para revisar
+(Escolha um arquivo já traduzido, recorte e cole aqui com o link para o seu usuário no github)
+
+### Traduzido
+(Escolha um arquivo na lista Para traduzir, recorte e cole aqui com o link para o seu usuário no github)
+
+Welcome por [@mattsrb](https://github.com/mattsrb)
+
+Index por [@mattsrb](https://github.com/mattsrb)
+
+Includes por [@mattsrb](https://github.com/mattsrb)
+
+docs/index.md por [@mattsrb](https://github.com/mattsrb)
+
+
+### Para traduzir
+
+docs/configuration.md
+
+docs/contributing.md
+
+docs/deployment-methods.md
+
+docs/drafts.md
+
+docs/extras.md
+
+docs/frontmatter.md
+
+docs/github-pages.md
+
+docs/heroku.md
+
+docs/history.md
+
+docs/installation.md
+
+docs/migrations.md
+
+docs/pages.md
+
+docs/pagination.md
+
+docs/permalinks.md
+
+docs/plugins.md
+
+docs/posts.md
+
+docs/quickstart.md
+
+docs/resources.md
+
+docs/sites.md
+
+docs/structure.md
+
+docs/templates.md
+
+docs/troubleshooting.md
+
+docs/upgrading.md
+
+docs/usage.md
+
+docs/variables.md
+
+
+
+_posts/2013-05-06-jekyll-1-0-0-released.markdown
+
+_posts/2013-05-08-jekyll-1-0-1-released.markdown
+
+_posts/2013-05-12-jekyll-1-0-2-released.markdown
+
+_posts/2013-06-07-jekyll-1-0-3-released.markdown
+
+_posts/2013-07-14-jekyll-1-1-0-released.markdown
+
+_posts/2013-07-24-jekyll-1-1-1-released.markdown
+
+_posts/2013-07-25-jekyll-1-0-4-released.markdown
+
+_posts/2013-07-25-jekyll-1-1-2-released.markdown
+
+_posts/2013-09-06-jekyll-1-2-0-released.markdown
+
+_posts/2013-09-14-jekyll-1-2-1-released.markdown
