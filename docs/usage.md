@@ -41,9 +41,9 @@ $ jekyll serve --watch
 {% endhighlight %}
 
 Estas são apenas algumas das [opções configuração](../configuration/).
-Muitas opções podem ser especificadas através de flags por linha de comando,
+Muitas opções podem ser especificadas através de parâmetros por linha de comando,
 ou alternativamente (e mais comumente) podem ser especificadas no arquivo `_config.yml`
-na raiz do diretório de origem. Quando executar o Jekyll usará automaticamente as opções deste arquivo. Por exemplo, se você adicionar as seguintes linhas em seu arquivo `_config.yml`:
+na raiz do diretório de origem. Quando executar, o Jekyll usará automaticamente as opções deste arquivo. Por exemplo, se você adicionar as seguintes linhas em seu arquivo `_config.yml`:
 
 {% highlight yaml %}
 source:      _source
